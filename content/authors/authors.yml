@@ -1,8 +1,8 @@
 - name: Jordan Miller
   bio: |
-    I swear I'll write something about me here eventually... not...asdf
+    I swear I'll write something about me here eventually...
   avatar: ./avatars/jordan-miller.jpg
   social:
     - url: https://jmiller.dev
     - url: https://github/dracco1993
-  featured: false
+  featured: true
