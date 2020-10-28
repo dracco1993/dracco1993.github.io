@@ -1,21 +1,21 @@
 module.exports = {
   siteMetadata: {
-    title: `Novela by Narative`,
-    name: `Narative`,
-    siteUrl: `https://novela.narative.co`,
-    description: `Jordan Miller | Senior Software Engineer at Springbuk`,
+    title: `Jordan Miller | Full Stack Developer`,
+    name: `Jordan Miller`,
+    siteUrl: `https://jmiller.dev`,
+    description: `Jordan Miller | Full Stack Developer`,
     hero: {
-      heading: `Senior Software Engineer at Springbuk`,
+      heading: `Hey, I'm Jordan Miller`,
       maxWidth: 652,
     },
     social: [
       {
-        name: `twitter`,
-        url: `https://twitter.com/dracco1993`,
-      },
-      {
         name: `github`,
         url: `https://github.com/dracco1993`,
+      },
+      {
+        name: `twitter`,
+        url: `https://twitter.com/dracco1993`,
       },
       {
         name: `linkedin`,
@@ -34,6 +34,7 @@ module.exports = {
           local: true,
           contentful: false
         },
+        authorsPage: true,
       },
     },
     {
